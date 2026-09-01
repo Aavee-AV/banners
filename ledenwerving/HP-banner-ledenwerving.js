@@ -25,26 +25,26 @@ lib.ssMetadata = [];
 
 
 
-(lib._020426_DevyverKarin = function() {
-	this.initialize(img._020426_DevyverKarin);
+(lib.devyverkarin = function() {
+	this.initialize(img.devyverkarin);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,1116,628);
 
 
-(lib._020426_DevyverKarincopy = function() {
-	this.initialize(img._020426_DevyverKarincopy);
+(lib.devyverkarincopy = function() {
+	this.initialize(img.devyverkarincopy);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,314,545);
 
 
-(lib._190326_GertReijnders = function() {
-	this.initialize(img._190326_GertReijnders);
+(lib.gertreijnders = function() {
+	this.initialize(img.gertreijnders);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,1116,628);
 
 
-(lib._190326_GertReijnderscopy = function() {
-	this.initialize(img._190326_GertReijnderscopy);
+(lib.gertreijnderscopy = function() {
+	this.initialize(img.gertreijnderscopy);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,304,502);
 
